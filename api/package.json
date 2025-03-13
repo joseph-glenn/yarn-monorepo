@@ -2,7 +2,7 @@
   "name": "api",
   "packageManager": "yarn@4.7.0",
   "dependencies": {
-    "axios": "1.7.2",
+    "axios": "1.8.2",
     "package1": "workspace:*"
   },
   "workspaces": [
